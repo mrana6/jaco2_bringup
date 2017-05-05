@@ -1,7 +1,7 @@
 # jaco2_bringup
 
 ## Dependencies
-1. jaco2_description (in dekent)
+1. jaco2_description (in gt-rail_internal/codebase/davidkent/jaco2_description)
 2. wpi_jaco_wrapper (in GT-RAIL)
 3. (If gripper required) robotiq_85_gripper (in stanley)
 4. (If gripper required) robotiq_85_gripper_actions (in GT-RAIL)
