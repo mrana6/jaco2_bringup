@@ -1,0 +1,10 @@
+<!--
+   Author: Asif Rana, Georgia Institute of Technology
+  Version: January 27, 2017
+-->
+
+<launch>
+  <include file="$(find jaco2_description)/launch/jaco2_description.launch">
+    <arg name="gui" value="false" />
+  </include>
+</launch>
